@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta name="ke-passport" content="LOGIN"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="renderer" content="webkit|ie-comp|ie-stand">
+  <meta name="format-detection" content="telephone=no">
+  <title>登录</title>
+  <link
+    href="//s1.ljcdn.com/passport-web/assets/css/loginApp.5ff66e97438dbbdc28c72e2dcca29e63.css"
+    rel="stylesheet">
+</head>
+<body>
+<div id="mainApp"></div>
+<div id="loginHolder"></div>
+<script>
+  window.__INITIAL_STATE__ = {
+    frame: {
+      viewStyle: {"bs-media-id":"100000004","bs-banner-id":"100000738","pos-id":"928714778644451328"},
+      adxDomain: "https:\/\/ex.ke.com\/",
+      endpoint: {
+        adxDomain: "https:\/\/ex.ke.com\/",
+        captchaDomain: "https:\/\/captcha.lianjia.com"
+      }
+    }
+  };
+  window.__PUBLIC_PATH__ = "\/\/s1.ljcdn.com\/passport-web\/";
+</script>
+<script src="//s1.ljcdn.com/captcha-js-sdk-v2/captcha.js"></script>
+<script src="//s1.ljcdn.com/risk-control/static/keRiskControl.js"></script>
+<script src="//s1.ljcdn.com/passport-web/assets/js/loginApp.0875a79f59aa7f2ac6af.js"></script>
+</body>
+</html>
